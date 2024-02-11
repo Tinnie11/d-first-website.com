@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TintheSN.com - Your Ultimate Nursing Resource Hub</title>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+    color: #444;
+  }
+  .header {
+    position: relative;
+    top: 0;
+    left: 0;
+    width 100%;
+    text-align: center;
+    padding: 20px 0;
+  }
+  .header img {
+    width: 100%;
+    max-height: 400px;
+    opacity: 0.8;
+  }
+  .header-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    color: #fff;
+  }
+  h1 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 48px;
+    letter-spacing: 2px;
+    line-height: 1.2;
+  }
+  h2 {
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 28px;
+    letter-spacing: 1px;
+    line-height: 1.2;
+  }
+  h3 {
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 1.2;
+    color: #D3D3D3;
+  }
+  p {
+    font-size: 18px;
+    line-height: 1.6;
+    opacity: 0.9;
+  }
+  .container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  .section {
+    margin-bottom: 30px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .section h2 {
+    margin-bottom: 20px;
+    font-size: 32px;
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .section p {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+  }
+  .section .image-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+  }
+  .section .image-container img {
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  .section .image-container img:hover {
+    transform: scale(1.05);
+  }
+  .section .sub-section {
+    margin-top: 30px;
+  }
+  .section .sub-section h3 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .section .sub-section ul {
+    list-style-type: none;
+    padding-left: 0;
+    text-align: center;
+  }
+  .section .sub-section li {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #666;
+  }
+  .section .sub-section a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  .section .sub-section a:hover {
+    color: #0056b3;
+  }
+  .social-media {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  .social-media a {
+    display: inline-block;
+    margin: 0 15px;
+    font-size: 28px;
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  .social-media a:hover {
+    color: #0056b3;
+    transform: scale(1.1);
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <img src="C:\Users\ASUS\Downloads\Untitled design (4).png" alt="Header Image">
+  <div class="header-content">
+    <h1>Welcome to TintheSN.com</h1>
+    <h2>The Ultimate Nursing Compilation Hub</h2>
+    <h3>Created by Christine Abayon, SN</h3>
+    <p>Explore the Bachelor of Science in Nursing (BSN) program, clinical experiences, FAQs, social media connections, glossaries, student resources, and career opportunities in the eyes of an aspiring student nurse of Aklan State Univesity (ASU).</p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="section">
+    <h2><a href="introduction.html">Introduction</a></h2>
+    <p>TintheSN, a website created by a nursing student, offers assistance to aspiring students in navigating nursing school and learning about the profession through personal experiences and tips. The website provides practical advice and insights through anecdotes from the creator, who is currently pursuing her nursing degree. It's a helpful resource for students seeking guidance and support as they work towards their nursing goals.
+</p>
+    <div class="image-container">
+      <img src="C:/Users/ASUS/Downloads/mooreee (150 x 150 px)/4.png" alt="Nursing Students">
+      <img src="C:/Users/ASUS/Downloads/mooreee (150 x 150 px)/5.png" alt="RetDem">
+      <img src="C:/Users/ASUS/Downloads/mooreee (150 x 150 px)/6.png" alt="Uniform">
+    </div>
+  </div>
+
+  <div class="section">
+    <h2><a href="clinical_experience.html">Clinical Experience</a></h2>
+    <p>Embark on an exciting journey through the clinical component of the BSN program. Immerse yourself in diverse clinical settings, master essential nursing skills, and prepare for transformative clinical rotations that will shape your nursing career.</p>
+    <div class="image-container">
+      <img src="C:/Users/ASUS/Downloads/mooreee (150 x 150 px) (1)/7.png" alt="Clinical Skills">
+      <img src="C:/Users/ASUS/Downloads/mooreee (150 x 150 px) (1)/8.png" alt="Clinical Setting">
+      <img src="C:/Users/ASUS/Downloads/mooreee (150 x 150 px) (1)/9.png" alt="Clinical Rotations">
+    </div>
+  </div>
+
+  <div class="section">
+    <h2><a href="faqs.html">FAQs</a></h2>
+    <p>Welcome to our FAQs section, where the mysteries behind the journey of a student nurse are unraveled! Ever wondered why she chose nursing? Or why Aklan State University became her academic haven? Get ready to dive into the depths of her decision-making process and uncover the stories behind her choices. Let's embark on this enlightening adventure together, shedding light on the path that led her to pursue her passion for nursing and shape her future at Aklan State University. Get ready to be inspired and informed as we unveil the tales behind the decisions that shape her nursing odyssey!</p>
+  </div>
+
+  <div class="section">
+    <h2>Social Media</h2>
+    <p>Stay connected with us on social media. Follow our journey, engage with fellow nursing students, and never miss an update!</p>
+    <div class="social-media">
+      <a href="https://www.facebook.com/SASBSNthepulse"><img src="C:\Users\ASUS\Downloads\icons\1.png" alt="Facebook"></a>
+      <a href="twitter_link.html"><img src="C:\Users\ASUS\Downloads\icons\3.png" alt="Twitter"></a>
+      <a href="instagram_link.html"><img src="C:\Users\ASUS\Downloads\icons\2.png" alt="Instagram"></a>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Glossary</h2>
+    <p>Expand your nursing knowledge with our comprehensive glossaries. From acronyms to medical and pharmacology terms, we've compiled a valuable resource to enhance your understanding.</p>
+    <div class="sub-section">
+      <h3><a href="glossary_of_acronyms.html">Glossary of Acronyms</a></h3>
+      <ul id="acronyms">
+      </ul>
+      <h3><a href="glossary_of_medical_terms.html">Glossary of Medical Terms</a></h3>
+      <ul id="medical_terms">
+      </ul>
+      <h3><a href="glossary_of_pharmacology_terms.html">Glossary of Pharmacology Terms</a></h3>
+      <ul id="pharmacology_terms">
+      </ul>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2><a href="student_resources.html">Student Resources</a></h2>
+    <p>Unlock a treasure trove of resources including articles, blog posts, nursing e-books, and informative videos. Dive in and discover the wealth of resources waiting to support you on your path to becoming a skilled and compassionate nurse.</p>
+    <div class="image-container">
+      <img src="C:/Users/ASUS/Downloads/mooreee (150 x 150 px) (2)/10.png" alt="Nursing book">
+      <img src="C:/Users/ASUS/Downloads/mooreee (150 x 150 px) (2)/11.png" alt="Nursing book">
+      <img src="C:/Users/ASUS/Downloads/mooreee (150 x 150 px) (2)/12.png" alt="Nursing book">
+    </div>
+  </div>
+
+  <div class="section">
+    <h2><a href="career_opportunities.html">Career Opportunities</a></h2>
+    <p>Embark on an exciting career journey with our comprehensive guide to the myriad opportunities awaiting BSN graduates. Delve into diverse job roles, anticipate salary prospects, equip yourself for the nursing licensure exam, and uncover valuable resources for discovering job openings. </p>
+  </div>
+</div>
+
+</body>
+</html>
